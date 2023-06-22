@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4PpV62VfkoFyKlE3ez2AFc8x02cbOYy+QS55imS+bupt7BiABsEmXQEQytnEWMfnmY7DE7z85cIQPrc79ttb6g==",
+  "success": true,
+  "projectFilePath": "D:\\my_demo\\demo-app\\backend\\SumIntegerWebApi\\SumIntegerWebApi\\SumIntegerWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karan Jamwal\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
